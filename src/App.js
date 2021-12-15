@@ -5,6 +5,7 @@ import CardList from './components/CardList'
 
 
 
+
 function App() {
 
   const [cards, setCards] = useState ([])
@@ -27,5 +28,3 @@ function App() {
 }
 
 export default App;
-
-a=9
